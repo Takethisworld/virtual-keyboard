@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../takethisworld-JSFE2023Q1/virtual-keyboard/assets"
+		},
+		{
+			"name": "virtual-keyboard",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "virtual-keyboard"
+	}
+}
